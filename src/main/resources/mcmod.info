@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "avomod",
+        "name": "Avicia Mod",
+        "description": "Mod made for the Guild Avicia containing useful features",
+        "version": "v2",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
